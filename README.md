@@ -15,7 +15,7 @@ Projeto com o objetivo de gerar um podcast utilizando algumas ferramentas de int
 
 * Na terceira atividade da terceira parte de um bootcamp da DIO, chamada "Processos de Treinamento de LLMs", há uma seção chamada "Desafios Computacionais no Treinamento de LLMs", e no segundo vídeo dessa seção, chamado "Projeto Hands-On: Superando Desafios Computacionais", é apresentado um exemplo de geração de voz usando <a href="https://huggingface.co/nari-labs/Dia-1.6B">nari-labs/Dia-1.6B</a>.
 
-* Com o intuito de gerar vozes em português, a princípio adotou-se uma abordagem utilizando <a href="https://github.com/anan235/dia-multilingual/tree/main">dia-multilingual</a>, porém o maior entrave encontrado foi a remoção do arquivo <code>hyperparams.yaml</code> (<a href="https://github.com/anan235/dia-multilingual/issues/5#issuecomment-2830030195">mais detalhes aqui</a>). Portanto, foi preciso alterar o TTS que seria utilizado.
+* Com o intuito de gerar vozes em português, a princípio adotou-se uma abordagem utilizando <a href="https://github.com/anan235/dia-multilingual/tree/main">dia-multilingual</a>, porém o maior entrave encontrado foi a remoção do arquivo <code>hyperparams.yaml</code> (<a href="https://github.com/anan235/dia-multilingual/issues/5#issuecomment-2830030195">mais detalhes aqui</a>). Portanto, foi preciso alterar o mecanismo de _text-to-speech_ (TTS) que seria utilizado.
 
 * Foi possível obter resultados satisfatórios utilizando uma combinação de dois elementos: o Dockerfile do dia-multilingual modificado, e o <a href="https://github.com/huggingface/parler-tts">Parler-TTS</a>.
 
@@ -40,7 +40,7 @@ docker run --gpus all -it -p 8000:8000 --name testcontainername dia-multilang
 
 E por último, executa-se o script dentro do container (<code>python main.py</code>).
 
-* A partir de então, é gerado o arquivo <code>model.safetensors</code>, um formato moderno para modelos de <i>deep learning</i>.
+* A partir de então, é gerado o arquivo <code>model.safetensors</code>, um formato moderno para modelos de _deep learning_.
 
 ![Imgur](https://i.imgur.com/VpzR0E3.png)
 
