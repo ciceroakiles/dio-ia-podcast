@@ -16,5 +16,6 @@ O formato do roteiro deve ser:
 * O episódio deve ser curto
 
 {REGRAS NEGATIVAS}
+* Não utilize os seguintes caracteres: — – -
 * Não utilize muitos termos técnicos
 * Não ultrapasse 420 segundos de duração

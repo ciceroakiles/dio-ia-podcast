@@ -1,0 +1,26 @@
+Seja muito bem-vindo ao DIA_Lotus_Cast. Aqui é a Lotus, e hoje a gente vai dar um passeio curioso e bem tranquilo por um dos temas mais antigos e, ao mesmo tempo, mais presentes na nossa vida: os sistemas de numeração.
+
+Se você já se perguntou por que usamos o número dez como base ou o que significa aquele monte de zero e um no computador, fica comigo. Prometo que vai ser rápido, leve e bem interessante.
+
+Respira fundo, ajeita o fone... e bora mergulhar nessa!
+
+Vamos começar com uma pergunta simples: por que usamos o número dez como base para contar?
+A resposta é mais natural do que parece. O sistema de numeração que usamos no dia a dia, chamado decimal, é baseado no número dez. E sabe por quê? Porque a maioria das pessoas tem dez dedos nas mãos.
+
+Lá atrás, nas antigas civilizações, contar com os dedos era o jeito mais fácil de fazer contas. Então, eles acabaram usando o dez como base. É por isso que temos dez unidades, dez dezenas, cem centenas e por aí vai. Esse sistema ficou tão comum que acabou sendo usado em quase todo o mundo.
+
+Ah, e uma curiosidade legal: os símbolos que usamos para escrever os números, de zero a nove, vieram da Índia, foram levados pelos árabes e depois chegaram à Europa. Por isso, às vezes, você escuta falar de algarismos indo-arábicos.
+
+Agora vamos para um mundo um pouco diferente: o sistema binário. Esse é o sistema que os computadores usam. Em vez de contar até dez, eles contam só até dois: zero e um.
+
+Mas como assim só dois números? Na verdade, o sistema binário usa combinações de zero e um para representar qualquer número. Por exemplo, o número dois, no binário, é escrito como dez. O número três é onze. O quatro já vira cem.
+
+Parece confuso, mas é super lógico. O computador entende muito bem quando tem corrente elétrica passando, o número um, e quando não tem, o número zero. Isso virou uma linguagem perfeita pra ele.
+
+Então, quando você digita uma mensagem, manda uma foto ou assiste um vídeo, tudo está sendo transformado em milhares e milhares de zeros e ums que o computador entende rapidinho.
+
+E aí, curtiu essa viagem pelos números? O legal é ver como algo tão simples como contar nos dedos virou uma linguagem que conecta o mundo inteiro, e até os computadores.
+
+Se você quiser ouvir mais episódios como esse, segue o DIA_Lotus_Cast. Em cada episódio, a gente passa por um tema curioso de forma leve e fácil de entender.
+
+Meu nome é Lotus, e esse foi o episódio do dia.
