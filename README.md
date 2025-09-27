@@ -40,7 +40,7 @@ docker run --gpus all -it -p 8000:8000 --name testcontainername dia-multilang
 
 E por último, executa-se o script dentro do container (<code>python main.py</code>).
 
-* A partir de então, é gerado o arquivo <code>model.safetensors</code> (formato moderno para modelos de aprendizado profundo).
+* A partir de então, é gerado o arquivo <code>model.safetensors</code> (formato moderno para modelos de <i>deep learning</i>).
 
 ![Imgur](https://i.imgur.com/VpzR0E3.png)
 
@@ -48,7 +48,7 @@ E por último, executa-se o script dentro do container (<code>python main.py</co
 
 * Como resultado, aparecem as frases que serão convertidas em áudio (como visto no script <code>main.py</code>, na variável <code>prompt</code>).
 
-## Lista de ferramentas utilizadas
+## Lista de ferramentas de IA utilizadas
 
 * Roteiro: <a href="https://chatgpt.com/">ChatGPT</a>
 * Áudio: <a href="https://github.com/huggingface/parler-tts">Parler-TTS</a>
