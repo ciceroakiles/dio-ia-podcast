@@ -26,10 +26,10 @@ Projeto com o objetivo de gerar um podcast utilizando algumas ferramentas de int
 
 * A parte que mais demora é a preparação do ambiente; porém, uma vez pronto, é possível gerar quantos áudios forem necessários. Os áudios são gerados localmente para não depender de créditos, moedas, tokens, limites diários e vários outros tipos de limitações impostas quando se utiliza ferramentas de TTS gratuitas online.
 
-* Primeiro, constrói-se a imagem a partir do Dockerfile (assim como no repositório dia-multilingual).
+* Com o serviço do Docker em execução, primeiro constrói-se a imagem a partir do Dockerfile (assim como no repositório dia-multilingual) com o seguinte comando, dentro da pasta de scripts.
 
 ```
-docker build -t dia-multilang -f docker/Dockerfile .
+docker build -t dia-multilang -f Dockerfile .
 ```
 
 Depois, gera-se um container a partir dessa imagem.
