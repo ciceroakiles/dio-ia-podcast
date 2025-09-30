@@ -7,7 +7,7 @@
 </a>
 </p>
 
-Projeto com o objetivo de gerar um podcast utilizando algumas ferramentas de inteligência artificial.
+Projeto com o objetivo de criar um podcast, com o auxílio de algumas ferramentas de inteligência artificial.
 
 ## Breve histórico
 <details>
@@ -53,4 +53,3 @@ E por último, executa-se o script dentro do container (<code>python main.py</co
 * Roteiro: <a href="https://chatgpt.com/">ChatGPT</a>
 * Áudio: <a href="https://github.com/huggingface/parler-tts">Parler-TTS</a>
 * Imagens: <a href="https://lexica.art/">Lexica</a>
-
